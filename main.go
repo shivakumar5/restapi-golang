@@ -18,8 +18,6 @@ type Employee struct{
 	Age int `json :"age"`
 }
 
-// allEmployees ...
-var allEmployees []Employee
 
 // Employees records ...
 var Employees = []Employee{
